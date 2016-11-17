@@ -1,0 +1,25 @@
+{
+  "name": "cocoon-plugin-android-adding-resources",
+  "version": "1.0.0",
+  "description": "Cocoon Android Adding Resources",
+  "cordova": {
+    "id": "cocoon-plugin-android-adding-resources",
+    "platforms": ["android"]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ludei/atomic-plugins-notifications"
+  },
+  "keywords": [
+    "cordova",
+    "resources",
+    "drawable",
+    "ecosystem:cordova"
+  ],
+  "author": "ludei",
+  "license": "MPL 2.0",
+  "bugs": {
+    "url": "https://github.com/ludei/atomic-plugins-notifications/issues"
+  },
+  "homepage": "https://github.com/ludei/atomic-plugins-notifications#readme"
+}

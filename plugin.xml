@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
+        id="cocoon-plugin-android-adding-resources" version="1.0.0">
+    <name>CocoonAndroidAddingResources</name>
+    <description>Cocoon Adding Resources</description>
+    <license>MPL 2.0</license>
+    <keywords>cordova,resources,drawable</keywords>
+    <repo>https://github.com/ludei/atomic-plugins-notifications</repo>
+
+    <platform name="android">
+
+        <resource-file src="res/drawable-mdpi/grumpynoticon.png" target="res/drawable-mdpi/grumpynoticon.png" />
+
+        <resource-file src="res/drawable-hdpi/grumpynoticon.png" target="res/drawable-hdpi/grumpynoticon.png" />
+
+        <resource-file src="res/drawable-xhdpi/grumpynoticon.png" target="res/drawable-xhdpi/grumpynoticon.png" />
+
+        <resource-file src="res/drawable-xxhdpi/grumpynoticon.png" target="res/drawable-xxhdpi/grumpynoticon.png" />
+
+        <resource-file src="res/drawable-xxxhdpi/grumpynoticon.png" target="res/drawable-xxxhdpi/grumpynoticon.png" />
+
+    </platform>
+</plugin>
