@@ -9,15 +9,15 @@
 
     <platform name="android">
 
-        <resource-file src="res/drawable-mdpi/grumpynoticon.png" target="res/drawable-mdpi/grumpynoticon.png" />
+        <resource-file src="res/drawable-mdpi/notification_icon.png" target="res/drawable-mdpi/notification_icon.png" />
 
-        <resource-file src="res/drawable-hdpi/grumpynoticon.png" target="res/drawable-hdpi/grumpynoticon.png" />
+        <resource-file src="res/drawable-hdpi/notification_icon.png" target="res/drawable-hdpi/notification_icon.png" />
 
-        <resource-file src="res/drawable-xhdpi/grumpynoticon.png" target="res/drawable-xhdpi/grumpynoticon.png" />
+        <resource-file src="res/drawable-xhdpi/notification_icon.png" target="res/drawable-xhdpi/notification_icon.png" />
 
-        <resource-file src="res/drawable-xxhdpi/grumpynoticon.png" target="res/drawable-xxhdpi/grumpynoticon.png" />
+        <resource-file src="res/drawable-xxhdpi/notification_icon.png" target="res/drawable-xxhdpi/notification_icon.png" />
 
-        <resource-file src="res/drawable-xxxhdpi/grumpynoticon.png" target="res/drawable-xxxhdpi/grumpynoticon.png" />
+        <resource-file src="res/drawable-xxxhdpi/notification_icon.png" target="res/drawable-xxxhdpi/notification_icon.png" />
 
     </platform>
 </plugin>
